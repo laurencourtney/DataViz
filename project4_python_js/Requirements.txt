@@ -1,0 +1,20 @@
+Dependencies:
+Python3
+D3.js
+
+To view the JavaScript visualization (Sample02), you will need to spin up a python server with the command 
+python -m http.server 8080
+The visualization can then be accessed at https://localhost:8080/Index2.html
+
+The other two visualizations, Index1.html and Index3.html, can be opened directly in the browser. 
+
+The following Python modules must be installed to run the Jupyter notebooks:
+pandas
+matplotlib
+bokeh
+pycountry-convert
+holoviews
+geopy
+numpy
+folium
+json
